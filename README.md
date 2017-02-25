@@ -7,3 +7,4 @@ into this local /c/Users/Kent/master then we need to use these commands
 % git init
 % git pull origin master
 
+After that we can modify file and push back
